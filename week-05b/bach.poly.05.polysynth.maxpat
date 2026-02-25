@@ -9,7 +9,7 @@
             "modernui": 1
         },
         "classnamespace": "box",
-        "rect": [ 137.0, 200.0, 830.0, 514.0 ],
+        "rect": [ 78.0, 139.0, 997.0, 714.0 ],
         "boxes": [
             {
                 "box": {
@@ -390,6 +390,14 @@
         "parameters": {
             "obj-47": [ "live.tab", "live.tab", 0 ],
             "obj-7": [ "live.gain~", "live.gain~", 0 ],
+            "parameterbanks": {
+                "0": {
+                    "index": 0,
+                    "name": "",
+                    "parameters": [ "-", "-", "-", "-", "-", "-", "-", "-" ],
+                    "buttons": [ "-", "-", "-", "-", "-", "-", "-", "-" ]
+                }
+            },
             "inherited_shortname": 1
         },
         "autosave": 0
